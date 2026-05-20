@@ -1,0 +1,14 @@
+export { CrmDashboard } from "./CrmDashboard";
+export { CustomersPage } from "./CustomersPage";
+export { CustomerSegmentPage } from "./CustomerSegmentPage";
+export { CustomerDetailPage } from "./CustomerDetailPage";
+export { ServiceRequestsPage } from "./ServiceRequestsPage";
+export { CampaignsPage } from "./CampaignsPage";
+export { TicketsPage } from "./TicketsPage";
+export { AnalyticsPage } from "./AnalyticsPage";
+export { ReviewsPage } from "./ReviewsPage";
+export { LoyaltyPage } from "./LoyaltyPage";
+export { TrendsPage } from "./TrendsPage";
+export { TemplatesPage } from "./TemplatesPage";
+export { FollowUpsPage } from "./FollowUpsPage";
+export { SupportInboxPage } from "../support/SupportInboxPage";

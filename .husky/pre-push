@@ -1,0 +1,6 @@
+#!/usr/bin/env sh
+
+echo "Running checks before push..."
+
+bun run build
+
